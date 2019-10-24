@@ -7,7 +7,7 @@ import com.jogamp.opengl.glu.GLU;
 import com.jogamp.opengl.util.gl2.GLUT; 
 
 /**
- * CPSC 424, Fall 2015, Lab 6:  Light and Material in OpenGL 1.1.
+Light and Material in OpenGL 1.1.
  * This program shows a square "stage" with a variety of objects
  * arranged on it.  The objects use several shapes and materials
  * and include a wireframe object that is drawn with lighting
